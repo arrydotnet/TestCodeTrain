@@ -1,8 +1,10 @@
 <script type="text/javascript">
-function fn(){
+//START
+  function fn(){
 alert('MASTER');}
 fn();
-function funn1(){
+function fun1(){
 alert('Dev.Test');}
-funn1();
+fun1();
+//EOL
 </script>
