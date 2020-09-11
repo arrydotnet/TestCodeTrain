@@ -3,6 +3,6 @@ function fn(){
 alert('MASTER');}
 fn();
 function funn1(){
-alert('MASTER');}
+alert('Dev.Test');}
 funn1();
 </script>
